@@ -62,8 +62,8 @@ Repo: [Link to the repository]
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nichebiche)
-- [Twitter](https://twitter.com/nichebiche)
-- [Email](mailto:your-email@example.com)
+- [Twitter](https://twitter.com/nicholeC98741)
+- [Email](mailto:your-nicholechristie555@gmail.com)
 
 ## GitHub Stats
 
