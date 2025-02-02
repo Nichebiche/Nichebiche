@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning everything i can soak in!
 - 💞️ I’m looking to collaborate on anything awesome or interesting 
 - 📫 How to reach me email me christielaw33@yahoo.com
-- 😄 Pronouns: she 
 - ⚡ Fun fact: i am a stay at home mother of 4 and my youngest is 1years old, I am a busy mama! 
 
 <!---
