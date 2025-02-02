@@ -20,12 +20,12 @@ Welcome to my GitHub profile! I'm a passionate developer constantly striving to 
 ### Programming Languages:
 - Python
 - JavaScript
-- [Any other languages you are proficient in]
+  
 
 ### Frameworks and Libraries:
 - React
 - Node.js
-- [Any other frameworks or libraries you use]
+  
 
 ### Tools and Technologies:
 - Git & GitHub
