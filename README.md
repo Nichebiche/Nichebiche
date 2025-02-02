@@ -1,4 +1,4 @@
-img/heart-on-your-sleeve/heart-on-your-sleeve-gold.png
+
 
 - 👋 Hi, I’m @Nichebiche
 - 👀 I’m interested in expanding my presence on web3 and with AI 
